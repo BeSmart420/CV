@@ -1,0 +1,14 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: groove;
+  width: 5%;
+  height: 2px;
+  background-color: grey;
+  border-color: grey;
+}
+h3{
+  color: green;
+}
